@@ -1,0 +1,6 @@
+C:\Users\Baris\source\repos\Lab6_02\Lab6_02\bin\Debug\Lab6_02.exe
+C:\Users\Baris\source\repos\Lab6_02\Lab6_02\bin\Debug\Lab6_02.pdb
+C:\Users\Baris\source\repos\Lab6_02\Lab6_02\obj\Debug\Lab6_02.csprojAssemblyReference.cache
+C:\Users\Baris\source\repos\Lab6_02\Lab6_02\obj\Debug\Lab6_02.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\repos\Lab6_02\Lab6_02\obj\Debug\Lab6_02.exe
+C:\Users\Baris\source\repos\Lab6_02\Lab6_02\obj\Debug\Lab6_02.pdb
